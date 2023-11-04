@@ -12,10 +12,10 @@ Problem Statement: Gesture Based Game Controller
 Theme: Python
 
 Libraries Used: 
-1 OpenCV
-2 MediaPipe
-3 TensorFlow
-4 PyAutoGUI
+1) OpenCV,
+2) MediaPipe,
+3) TensorFlow,
+4) PyAutoGUI
 
 
 Features:

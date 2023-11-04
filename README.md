@@ -1,3 +1,6 @@
 # Gesture-Based-Game-Controller_Authentic_Geeks
-Winter Hackathon NIT Goa
-hii
+Winter Hackathon 2023 - NIT Goa
+
+Team Name: Authentic_Geeks
+
+Problem_Statement: Gesture Based Game Controller

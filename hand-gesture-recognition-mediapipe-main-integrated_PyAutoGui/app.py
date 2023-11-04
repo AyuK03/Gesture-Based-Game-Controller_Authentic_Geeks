@@ -103,9 +103,9 @@ def main():
     while True:
         fps = cvFpsCalc.get()
 
-        # Process Key (ESC: end) #################################################
+        # Process Key  (P: en d) #################################################
         key = cv.waitKey(10)
-        if key == 27:  # ESC
+        if key == 80:  # press P for escaping
             break
         number, mode = select_mode(key, mode)
 

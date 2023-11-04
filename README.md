@@ -1,14 +1,10 @@
 # Gesture-Based-Game-Controller_Authentic_Geeks
-<<<<<<< HEAD
-Winter Hackathon NIT Goa
-hii
+
+Winter Hackathon NIT Goa - Nov 2023
+
 Team Name : Authentic_geeks
-Team Leader: Ayushi Kandpal
-Team Member: Rakshitha K
-=======
-Winter Hackathon 2023 - NIT Goa
+Team Leader: Ayushi Kandpal (22CSE1004)
+Team Member: Rakshitha K (22CSE1028)
 
-Team Name: Authentic_Geeks
-
-Problem_Statement: Gesture Based Game Controller
+Problem Statement: Gesture Based Game Controller
 >>>>>>> 94683f39c74c0bb9922d4cd6d4fbeaf3f19aeb7c

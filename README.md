@@ -10,3 +10,20 @@ Problem Statement: Gesture Based Game Controller
 
 Theme: Python
 
+Features:
+
+1 Gesture Recognition: The primary feature
+of the controller is its ability to recognize
+gestures like hand movements and finger
+gestures to control the Tetris blocks.
+
+2 Positional Tracking: Ensure accurate
+tracking of the player's hand or body
+position, allowing precise control over the
+Tetris pieces' movement.
+
+3 Rotations: Enable gesture-based rotations
+for the Tetris pieces. For instance, a
+specific gesture to rotate the piece 90
+degrees clockwise
+

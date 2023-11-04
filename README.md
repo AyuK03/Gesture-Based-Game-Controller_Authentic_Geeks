@@ -8,6 +8,7 @@ Team Member: Rakshitha K (22CSE1028)
 
 Problem Statement: Gesture Based Game Controller
 
+
 Theme: Python
 
 Features:
@@ -23,7 +24,7 @@ position, allowing precise control over the
 Tetris pieces' movement.
 
 3 Rotations: Enable gesture-based rotations
-for the Tetris pieces. For instance, a
+for the Tetris pieces. For instance, 
 specific gesture to rotate the piece 90
 degrees clockwise
 

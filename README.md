@@ -20,21 +20,25 @@ Libraries Used:
 
 Features:
 
-1 Gesture Recognition: The primary feature
+- Gesture Recognition: The primary feature
 of the controller is its ability to recognize
 gestures like hand movements and finger
 gestures to control the Tetris blocks.
 
-2 Positional Tracking: Ensure accurate
+- Positional Tracking: Ensure accurate
 tracking of the player's hand or body
 position, allowing precise control over the
 Tetris pieces' movement.
 
 
-3 Rotations: Enable gesture-based rotations
+- Rotations: Enable gesture-based rotations
 for the Tetris pieces. For instance, 
 specific gesture to rotate the piece 90
-degrees clockwise
+degrees clockwise.
+
+- Gesture for Dropping: A distinct
+gesture to make the Tetris piece drop
+instantly to the bottom.
 
 # Gesture-Based Game Controller
 

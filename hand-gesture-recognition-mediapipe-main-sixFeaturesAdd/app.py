@@ -145,27 +145,27 @@ def main():
                 hand_sign_id = keypoint_classifier(pre_processed_landmark_list)
                 if hand_sign_id == 0:  # Point gesture
                     point_history.append(landmark_list[8])
-                    pyautogui.press('up')
+                    pyautogui.press('up', interval=0.5)
                 else:
                     point_history.append([0, 0])
                 if hand_sign_id == 1:  # Point gesture
                     point_history.append(landmark_list[8])
-                    pyautogui.press('space')
+                    pyautogui.press('space',interval=1)
                 else:
                     point_history.append([0, 0])
                 if hand_sign_id == 2:  # Point gesture
                     point_history.append(landmark_list[8])
-                    pyautogui.press('right')
+                    pyautogui.press('right',interval=0.5)
                 else:
                     point_history.append([0, 0])
                 if hand_sign_id == 3:  # Point gesture
                     point_history.append(landmark_list[8])
-                    pyautogui.press('down')
+                    pyautogui.press('down',interval=0.5)
                 else:
                     point_history.append([0, 0])
                 if hand_sign_id == 4 or hand_sign_id == 5:  # Point gesture
                     point_history.append(landmark_list[8])
-                    pyautogui.press('left')
+                    pyautogui.press('left', interval=0.5)
                 else:
                     point_history.append([0, 0])
 

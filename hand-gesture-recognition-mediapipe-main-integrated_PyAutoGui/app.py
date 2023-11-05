@@ -14,7 +14,7 @@ import mediapipe as mp
 
 from utils import CvFpsCalc
 from model import KeyPointClassifier
-from model import PointHistoryClassifier
+from mod el  im port PointHistoryClassifier
 
 
 def get_args():

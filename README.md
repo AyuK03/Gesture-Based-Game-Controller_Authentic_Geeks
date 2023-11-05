@@ -109,6 +109,13 @@ The Gesture-Based Game Controller supports the following gestures:
 - **Ok :** Perform action as Soft Drop (Down Arrow Key)
 - **ESC:** Press esc to exit from gesture control
 
+Project Demo:
+
+![change_block](https://github.com/AyuK03/Gesture-Based-Game-Controller_Authentic_Geeks/assets/99130870/1a1bfd1b-3c66-4f3d-9b15-039aad72c709)
+
+![hard_drop](https://github.com/AyuK03/Gesture-Based-Game-Controller_Authentic_Geeks/assets/99130870/1b8e7590-14c5-49fe-a6df-0e6d49e28643)
+
+![move_block_left](https://github.com/AyuK03/Gesture-Based-Game-Controller_Authentic_Geeks/assets/99130870/79e87114-06a9-4055-b78a-f54ddf16b141)
 
 
 ---
